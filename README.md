@@ -1,10 +1,24 @@
+<pre>
+.___  ___.  __  .__   __.  __       _______. __    __   _______  __       __
+|   \/   | |  | |  \ |  | |  |     /       ||  |  |  | |   ____||  |     |  |
+|  \  /  | |  | |   \|  | |  |    |   (----`|  |__|  | |  |__   |  |     |  |
+|  |\/|  | |  | |  . `  | |  |     \   \    |   __   | |   __|  |  |     |  |
+|  |  |  | |  | |  |\   | |  | .----)   |   |  |  |  | |  |____ |  `----.|  `----.
+|__|  |__| |__| |__| \__| |__| |_______/    |__|  |__| |_______||_______||_______|
+</pre>
 
-![스크린샷 2024-10-02 192657](https://github.com/user-attachments/assets/f84a71c5-bf42-45d1-937b-525242b6fb5e)
+![npm](https://img.shields.io/badge/cmake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![npm](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-![npm](https://img.shields.io/badge/cmake-064F8C?style=flat&logo=cmake&logoColor=white)
-![npm](https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white)
+<br/>
 
-# 사용법 
+## 개요
+`linux`의 `pipe`를 이용하여
+`bash`의 일부 기능을 구현한 프로젝트 입니다
+
+<br/>
+
+## 사용법 
 
 cmake tool 설치 필요
 ```bash
@@ -28,9 +42,3 @@ make
 ```
 make bonus
 ```
-
-# 기타
-
-`linux`의 `pipe`를 이용한 shell script를 만든 프로젝트
-
-※ 부족한 기능이 더 많습니다
